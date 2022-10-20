@@ -1,4 +1,4 @@
-#3(a)- Maximum value in a list
+#3(a)- Maximum value in a list Algo_1
 def random():
     arr = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
